@@ -5,7 +5,9 @@ github地址：https://github.com/wang-yichen/openvino-YOLOv5/tree/main
 
 ## 1.openvino开发工具下载
 
-可查阅官方文档（https://docs.openvino.ai/2024/get-started/install-openvino/install-openvino-windows.html），查看openvino环境的安装部分，本文使用的是c++版本开发YOLOv5部署，使用的是存档安装的方法，具体前往官网：
+可查阅官方文档
+https://docs.openvino.ai/2024/get-started/install-openvino/install-openvino-windows.html
+查看openvino环境的安装部分，本文使用的是c++版本开发YOLOv5部署，使用的是存档安装的方法，具体前往官网：
 
 https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/download.html?PACKAGE=OPENVINO_BASE&VERSION=v_2024_4_0&OP_SYSTEM=WINDOWS&DISTRIBUTION=PIP
 
