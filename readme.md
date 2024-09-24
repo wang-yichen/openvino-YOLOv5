@@ -13,7 +13,7 @@ https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/downloa
 
 下载最新的安装包，如下图所示：
 
-![1727140971850](D:/best/openvino/1727140971850.png)
+![1727140971850](1727140971850.png)
 
 点击Download下载zip包。
 
